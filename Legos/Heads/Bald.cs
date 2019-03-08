@@ -4,7 +4,9 @@ namespace legos
 {
     class Bald : Head
     {
-        // Properties - describing it 
+        // properties that are describing the class. 
+        // However, further they're "auto-implemented properties"
+        // 
         public int ShineLevel { get; set; }
         public bool HasToupe { get; set; }
 

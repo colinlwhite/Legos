@@ -7,11 +7,14 @@ namespace legos
 {
     abstract class Torso
     {
+      // Four properties
+      // We're customizing the accessibility of the setters 
+      // 
       public int NumberOfArms { get; protected set; }
       public string FitnessOfAbdomen { get; protected set; }
       public Sex Sex { get; protected set; }
       public Colors Color { get; protected set; }
-      // Contrcutor?
+      // Constructor method that takes four parameters
       protected Torso(int numberOfArms, Sex sex, Colors color, string fitnessOfAbdomen)
       {
         // setting propeties

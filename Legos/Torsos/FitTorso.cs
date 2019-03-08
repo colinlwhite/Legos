@@ -9,6 +9,7 @@ namespace legos
     {
       // constructor overloading 
       // no return type on constructors
+      // Since we're inheriting Torso.cs we get access to its properties
       public FitTorso(int numberOfArms, Sex sex = Sex.Shrug, Colors color = Colors.Red) 
       // base is taking us to Torso.cs
       : base(numberOfArms,sex,color, "OMG, so fit." )
