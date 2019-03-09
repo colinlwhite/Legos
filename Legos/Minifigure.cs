@@ -22,21 +22,11 @@ namespace legos
           Legs = legs;
         }
 
-// Methods
-        // public void Eat()
-        // {
-        //   // 
-        //   Head.Chew();
-        //   Body.Digest();
-        // }
-
         public void Greet()
         {
           Body.Wave();
           Head.Talk();
           Legs.Walk();
-        
         }
     }
-
 }

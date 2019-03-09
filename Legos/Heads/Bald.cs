@@ -20,7 +20,7 @@ namespace legos
 
         public override string Talk() 
         {
-          return "I pity the fool";
+          return "I'm going to figure this out";
         }
     }
 // enums are inside of the namespace, not the Bald class and that's how we can access them
