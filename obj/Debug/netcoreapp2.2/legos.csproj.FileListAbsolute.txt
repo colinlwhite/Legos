@@ -1,0 +1,11 @@
+/Users/colinwhite/workspace/back-end/legos/bin/Debug/netcoreapp2.2/legos.deps.json
+/Users/colinwhite/workspace/back-end/legos/bin/Debug/netcoreapp2.2/legos.runtimeconfig.json
+/Users/colinwhite/workspace/back-end/legos/bin/Debug/netcoreapp2.2/legos.runtimeconfig.dev.json
+/Users/colinwhite/workspace/back-end/legos/bin/Debug/netcoreapp2.2/legos.dll
+/Users/colinwhite/workspace/back-end/legos/bin/Debug/netcoreapp2.2/legos.pdb
+/Users/colinwhite/workspace/back-end/legos/obj/Debug/netcoreapp2.2/legos.csprojAssemblyReference.cache
+/Users/colinwhite/workspace/back-end/legos/obj/Debug/netcoreapp2.2/legos.csproj.CoreCompileInputs.cache
+/Users/colinwhite/workspace/back-end/legos/obj/Debug/netcoreapp2.2/legos.AssemblyInfoInputs.cache
+/Users/colinwhite/workspace/back-end/legos/obj/Debug/netcoreapp2.2/legos.AssemblyInfo.cs
+/Users/colinwhite/workspace/back-end/legos/obj/Debug/netcoreapp2.2/legos.dll
+/Users/colinwhite/workspace/back-end/legos/obj/Debug/netcoreapp2.2/legos.pdb

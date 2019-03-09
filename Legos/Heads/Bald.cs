@@ -4,7 +4,9 @@ namespace legos
 {
     class Bald : Head
     {
-        // Properties - describing it 
+        // properties that are describing the class. 
+        // However, further they're "auto-implemented properties"
+        // 
         public int ShineLevel { get; set; }
         public bool HasToupe { get; set; }
 
@@ -18,11 +20,8 @@ namespace legos
 
         public override string Talk() 
         {
-          return "I pity the fool";
+          return "I'm going to figure this out";
         }
-
-
-
     }
 // enums are inside of the namespace, not the Bald class and that's how we can access them
     internal enum HairLength 
