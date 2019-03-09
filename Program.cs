@@ -10,13 +10,14 @@ namespace legos
         // String []args: For accepting the zero-indexed command line arguments. args is the user-defined name. So you can change it by a valid identifer. [] must come before the args otherwise compiler will give errors.
         static void Main(string[] args)
         {
-        // Intializing four new objects 
+        // Intializing four new objects which are calling other classes and their constructor methods
         var myDogHead = new Dog();
         var martinHead = new Bald();
         var astronaught = new Astronaut();
         // The FitTorso constructor in FitTorso.cs takes 3 parameters 
         // (int numberOfArms, Sex sex = Sex.Shrug, Colors color = Colors.Red) 
         var fitTorso = new FitTorso(2, Sex.Male, Colors.Freckles);
+        // calling the crunch method
         fitTorso.Crunch(12);
 
         var adamsLegs = new OrangeLegs(Length.Short);

@@ -22,9 +22,6 @@ namespace legos
         {
           return "I pity the fool";
         }
-
-
-
     }
 // enums are inside of the namespace, not the Bald class and that's how we can access them
     internal enum HairLength 
